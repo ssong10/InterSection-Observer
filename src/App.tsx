@@ -8,6 +8,7 @@ const styles: { [key: string]: CSSProperties } = {
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
+    paddingTop : '33px',
   },
 };
 
